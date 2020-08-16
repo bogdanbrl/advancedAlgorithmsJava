@@ -1,0 +1,1 @@
+Basically it is slower but on the other hand it is much more robust because it can handle negative numbers. 

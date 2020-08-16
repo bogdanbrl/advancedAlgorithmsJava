@@ -1,0 +1,15 @@
+Breadth_First_Search folder:
+	1. Breadth First Search;
+	2. Web Crawler.
+
+Depth_First_Search folder:
+	1. Cycle Detection;
+	2. Depth First Search;
+	3. Depth First Search With Recursion;
+	4. Topological Ordering;
+	5. Maze Solver.
+
+Shotest_Path_Algorithms:
+	1. Dijkstra Algorithm;
+	2. Bellman Ford Algorithm;
+	3. 
